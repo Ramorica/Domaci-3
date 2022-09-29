@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Best Restaurants</title>
+</head>
+<body>
+  <h1 style="color:#f0f8ff; background-color:#000000; text-align: center; padding: 50px; line-height: 1.3;font-size: 80px; font-weight: 900;">
+    Best restaurants in Paris<br>
+  <span style="font-size: 40px";>FRENCH & INTERNATIONAL FOOD</span><br>
+    <span style="font-style:italic; font-size: 30px">by Jane Doe<br></span>
+  </h1>
+  <h2 style="text-align: left; line-height: 1.7; font-weight: 900; margin: 5px 5px 5px 450px; font-size: 40px;">
+    Best food in Paris
+  </h2>
+  <p style="text-align: justify; line-height: 1.7; font-weight: 400; margin: 5px 5px 5px 450px; font-size: 30px;">
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do<br>
+eiusmod tempor incididunt ut labore et dolore magna aliqua.<br>
+Libero volutpat sed cras ornare arcu dui vivamus arcu. Viverra<br>
+aliquet eget sit amet tellus cras adipiscing enim eu. Dui faucibus<br>
+in ornare quam viverra orci sagittis eu. Sed felis eget velit aliquet<br>
+sagittis id consectetur purus ut. Adipiscing elit pellentesque<br>
+habitant morbi tristique senectus et netus. Consectetur adipiscing<br>
+elit ut aliquam. Facilisis mauris sit amet massa vitae tortor<br>
+condimentum lacinia quis. Sed ullamcorper morbi tincidunt<br>
+ornare massa eget. Mattis molestie a iaculis at erat pellentesque<br>
+adipiscing commodo. Praesent elementum facilisis leo vel<br>
+fringilla est ullamcorper. Eget nunc lobortis mattis aliquam<br>
+faucibus purus in.<br>
+  </p>
+  <img src="1.png"style="margin: 80px 80px 5px 450px; width: 50%; class:center";>
+  <h2 style="text-align: left; line-height: 1.7; font-weight: 900; margin: 5px 5px 5px 450px; font-size: 40px; color:#8b510a;">
+    L'Ambroisie<br>
+    <span style="font-style:italic; font-size: 30px;color: black;">at place des Vosges<br></span>
+  </h2>
+  <p style="text-align: justify; line-height: 1.7; font-weight: 400; margin: 5px 5px 5px 450px; font-size: 30px;">
+    LL'Ambroisie (French pronunciation: [lɑ̃bʁwazi]) is a traditional<br>
+    French restaurant in Paris, France founded by Bernard Pacaud<br>
+    and now run by his son Mathieu that has maintained three<br>
+    Michelin stars for more than thirty years. The name<br>
+    "L'Ambroisie" ("Ambrosia" in English) comes from Greek<br>
+    mythology and means both "food for gods" and "source of<br>
+    immortality."<br>
+    The restaurant is in a period house on the southwestern corner of<br>
+    the Place des Vosges in Paris. In the 17th and 18th centuries,<br>
+    Place des Vosges was an upper-class and noble neighborhood.<br>
+    If you want to read more visit<a href="https://en.wikipedia.org/wiki/L%27Ambroisie" target="_blank" style="color:#2200ff"> link.</a><br>
+  </p>
+  <hr style="color:#808080;margin:5px 600px 5px 450px;"></hr>;<br>
+  <img src="2.png" style="margin: 80px 80px 5px 450px; width: 50%; class:center";>
+   <h2 style="text-align: left; line-height: 1.7; font-weight: 900; margin: 5px 5px 5px 450px; font-size: 40px; color:#8b510a;">
+    La Mère Catherine<br>
+    <span style="font-style:italic; font-size: 30px;color: black;">at place du Tertre<br></span>
+  </h2>
+  <p style="text-align: justify; line-height: 1.7; font-weight: 400; margin: 5px 5px 5px 450px; font-size: 30px;">
+    La Mère Catherine is a brasserie in the 18th arrondissement of<br>
+Paris, France. It is the oldest restaurant located at place du<br>
+Tertre. It is situated in a building that previously served as the<br>
+church presbytery of Saint-Pierre de Montmartre. Founded in<br>
+1793, it is one of the oldest restaurants in Paris.<br>
+<br>
+<br>
+If you want to read more visit<a href="https://en.wikipedia.org/wiki/La_M%C3%A8re_Catherine" target="_blank" style="color:#2200ff"> link.</a><br>
+  </p>
+  <hr style="color:#808080;margin:5px 600px 5px 450px;"></hr>;<br>
+  <img src="3.png" style="margin: 80px 80px 5px 450px; width: 50%; class:center";>
+<h2 style="text-align: left; line-height: 1.7; font-weight: 900; margin: 5px 5px 5px 450px; font-size: 40px; color:#8b510a;">
+  Pavillon Ledoyen<br>
+  <span style="font-style:italic; font-size: 30px;color: black;">part of the<a href="https://en.wikipedia.org/wiki/Champs-%C3%89lys%C3%A9es" target="_blank" style="color:#000000; text-decoration:none;"> Champs-Élysées</a><br></span>
+</h2>
+<p style="text-align: justify; line-height: 1.7; font-weight: 400; margin: 5px 5px 5px 450px; font-size: 30px;">
+  Alléno Paris au Pavillon Ledoyen, in the square gardens in the<br>
+eastern part of the Champs-Élysées in the 8th arrondissement, is<br>
+one of the oldest restaurants in Paris. Its long history places it on<br>
+the Champs-Élysées before the street's beautification.<br>
+<br>
+In a two-storey pavilion with gardens, Ledoyen is considered to be<br>
+one of Paris's best gourmet restaurants, and boasts three Michelin<br>
+stars. The building is owned by the City of Paris. It is operated by<br>
+the company,<br>
+"Carré des Champs Elysées".<br>
+<br>
+If you want to read more visit link.<br>
+</p>
+<hr style="color:#808080;margin:5px 600px 5px 450px;"></hr>;<br>
+<img src="4.png" style="margin: 80px 80px 5px 450px; width: 50%; class:center";>
+<h2 style="text-align: left; line-height: 1.7; font-weight: 900; margin: 5px 5px 5px 450px; font-size: 40px; color:#8b510a;">
+  Polidor<br>
+  <span style="font-style:italic; font-size: 30px;color: black;">6th arrondissement of Paris<br></span>
+</h2>
+<p style="text-align: justify; line-height: 1.7; font-weight: 400; margin: 5px 5px 5px 450px; font-size: 30px;">
+  The Crémerie-Restaurant Polidor is a historic restaurant in the<br>
+6th arrondissement of Paris. Its predecessor was founded in<br>
+1845, and it has had its present name since the beginning of the<br>
+20th century.<br>
+<br>
+The interior of the restaurant is basically unchanged for over 100<br>
+years, and the style of cooking remains that of the late 19th<br>
+century. The Polidor is located at 41, rue Monsieur-le-Prince in<br>
+the Odéon area, near the Jardin du Luxembourg. Its name derives<br>
+from the cream desserts it served in former decades.<br>
+<br>
+If you want to read more visit<a href="https://en.wikipedia.org/wiki/Polidor" target="_blank" style="color:#2200ff"> link.</a><br>
+<br>
+</p>
+</body>
+</html>
